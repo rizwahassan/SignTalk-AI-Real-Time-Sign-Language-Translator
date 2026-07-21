@@ -1,0 +1,1 @@
+hello,question,yes,no,please,sorry,thankyou,this,alldone,water
